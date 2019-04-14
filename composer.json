@@ -6,5 +6,15 @@
             "email": "richardbures@email.cz"
         }
     ],
-    "require": {}
+    "autoload": {
+        "autoload": {
+            "psr-4": {
+                "LazyJsBundle\\": ""
+            }
+        }
+    },
+    "require": {
+        "symfony/http-kernel": "^4.2",
+        "twig/twig": "^2.7"
+    }
 }

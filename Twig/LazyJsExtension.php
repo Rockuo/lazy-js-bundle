@@ -7,7 +7,7 @@
  */
 
 // src/Twig/AppExtension.php
-namespace App\LazyJs\ExtensionBundle\Twig;
+namespace LazyJsBundle\Twig;
 
 use Symfony\Component\HttpFoundation\RequestStack;
 use Twig\Extension\AbstractExtension;

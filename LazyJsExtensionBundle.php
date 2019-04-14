@@ -6,7 +6,7 @@
  * Time: 11:27
  */
 
-namespace App\LazyJs\ExtensionBundle;
+namespace LazyJsBundle\ExtensionBundle;
 
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
