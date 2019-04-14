@@ -7,10 +7,8 @@
         }
     ],
     "autoload": {
-        "autoload": {
-            "psr-4": {
-                "LazyJsBundle\\": ""
-            }
+        "psr-4": {
+            "LazyJsBundle\\": ""
         }
     },
     "require": {
