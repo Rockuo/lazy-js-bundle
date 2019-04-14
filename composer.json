@@ -1,0 +1,10 @@
+{
+    "name": "rockuo/lazy-js-bundle",
+    "authors": [
+        {
+            "name": "rockuo",
+            "email": "richardbures@email.cz"
+        }
+    ],
+    "require": {}
+}
