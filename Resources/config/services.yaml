@@ -1,0 +1,5 @@
+services:
+  lazy_js_extension:
+    class: '\LazyJsBundle\Twig\LazyJsExtension'
+    tags:
+      - { name: twig.extension }
