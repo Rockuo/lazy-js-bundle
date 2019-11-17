@@ -1,20 +1,21 @@
 {
-    "name": "rockuo/lazy-js-bundle",
-    "authors": [
-        {
-            "name": "rockuo",
-            "email": "richardbures@email.cz"
-        }
-    ],
-    "autoload": {
-        "psr-4": {
-            "LazyJsBundle\\": ""
-        }
-    },
-    "require": {
-        "symfony/http-kernel": "^4.2",
-        "symfony/dependency-injection": "^4.2",
-        "symfony/config": "^4.2",
-        "twig/twig": "^2.7"
+  "name": "rockuo/lazy-js-bundle",
+  "authors": [
+    {
+      "name": "rockuo",
+      "email": "richardbures@email.cz"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "LazyJsBundle\\": ""
+    }
+  },
+  "require": {
+    "symfony/http-kernel": "^4.2",
+    "symfony/dependency-injection": "^4.2",
+    "symfony/config": "^4.2",
+    "twig/twig": "^2.7",
+    "ext-json": "*"
+  }
 }

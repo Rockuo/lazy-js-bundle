@@ -11,6 +11,10 @@ namespace LazyJsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
+/**
+ * Class LazyJsBundle
+ * @package LazyJsBundle
+ */
 class LazyJsBundle extends Bundle
 {
 
